@@ -9,7 +9,7 @@ yarn-error.log*
 dist/
 build/
 *.tsbuildinfo
-
+.kiro/
 # Environment variables
 .env
 .env.local
